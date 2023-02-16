@@ -1,0 +1,3066 @@
+{
+  "id": "63de4a39835960b4af2b521f",
+  "title": "Home",
+  "heroType": "contentAboveMedia",
+  "heroContent": [
+    {
+      "children": [
+        {
+          "text": "We bring together the"
+        }
+      ],
+      "type": "h5"
+    },
+    {
+      "children": [
+        {
+          "text": "Dreamers\r\nTHinkers\r\n&Makers",
+          "red-headline": "true"
+        }
+      ],
+      "type": "h1"
+    }
+  ],
+  "heroMedia": {
+    "id": "63d652a53d0ee52964afcf6d",
+    "alt": "Dreamers and Thinkers",
+    "width": 1160,
+    "height": 717,
+    "sizes": {
+      "card": {
+        "width": 640,
+        "height": 480,
+        "filename": "home-hero-640x480.png",
+        "filesize": 646698,
+        "url": "/media/home-hero-640x480.png"
+      },
+      "portrait": {
+        "width": 768,
+        "height": 1024,
+        "filename": "home-hero-768x1024.png",
+        "filesize": 1492170,
+        "url": "/media/home-hero-768x1024.png"
+      },
+      "feature": {
+        "width": 1024,
+        "height": 576,
+        "filename": "home-hero-1024x576.png",
+        "filesize": 1159255,
+        "url": "/media/home-hero-1024x576.png"
+      },
+      "square": {}
+    },
+    "filename": "home-hero.png",
+    "filesize": 1258611,
+    "mimeType": "image/png",
+    "createdAt": "2023-01-29T11:04:05.625Z",
+    "updatedAt": "2023-01-29T11:04:05.625Z",
+    "url": "/media/home-hero.png"
+  },
+  "layout": [
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Because collaboration builds "
+                },
+                {
+                  "text": "value.",
+                  "red-underline": "true"
+                }
+              ],
+              "type": "h3"
+            }
+          ],
+          "id": "63de4a2bdd8a29ccad172053"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "small",
+      "paddingBottom": "medium",
+      "id": "63de4a10dd8a29ccad172052",
+      "blockName": "Center Content",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "red",
+      "columns": [
+        {
+          "width": "twoThirds",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Quick question intro"
+                }
+              ],
+              "type": "h5"
+            },
+            {
+              "children": [
+                {
+                  "text": "“At imperdiet dui accumsan sit amet nulla facilisi morbi?”"
+                }
+              ],
+              "type": "h3"
+            }
+          ],
+          "id": "63de4a70dd8a29ccad172055"
+        }
+      ],
+      "accentLine": true,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "medium",
+      "id": "63de4a57dd8a29ccad172054",
+      "blockName": "Question",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "red",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "right",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Quick answer intro"
+                }
+              ],
+              "type": "h5"
+            },
+            {
+              "children": [
+                {
+                  "text": "“Diam sit amet nisl. Suscipit adipiscing.”"
+                }
+              ],
+              "type": "h3"
+            }
+          ],
+          "id": "63de4a99dd8a29ccad172057"
+        }
+      ],
+      "accentLine": true,
+      "accentLineAlignment": "right",
+      "paddingTop": "small",
+      "paddingBottom": "large",
+      "id": "63de4a88dd8a29ccad172056",
+      "blockName": "Answer",
+      "blockType": "content"
+    },
+    {
+      "size": "medium",
+      "id": "63de4aaddd8a29ccad172058",
+      "blockName": "Spacer",
+      "blockType": "spacer"
+    },
+    {
+      "backgroundColor": "blue",
+      "columns": [
+        {
+          "width": "twoThirds",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Proof points go here."
+                }
+              ],
+              "type": "h3"
+            }
+          ],
+          "id": "63de4ae0dd8a29ccad17205a"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "small",
+      "id": "63de4adadd8a29ccad172059",
+      "blockName": "Proof points",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "blue",
+      "columns": [
+        {
+          "width": "twoThirds",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "This text is emphasized.",
+                  "red-underline": "true"
+                }
+              ],
+              "type": "h3"
+            }
+          ],
+          "id": "63de4b1cdd8a29ccad17205c"
+        },
+        {
+          "width": "oneThird",
+          "alignment": "right",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": " Est velit egestas dui id. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo odio tempor orci."
+                }
+              ],
+              "type": "p"
+            }
+          ],
+          "id": "63de4b29dd8a29ccad17205d"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "small",
+      "paddingBottom": "small",
+      "id": "63de4af7dd8a29ccad17205b",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "blue",
+      "columns": [
+        {
+          "width": "twoThirds",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "_________\n\nConnect the narrative to these stat bubbles.\n\n"
+                }
+              ]
+            }
+          ],
+          "id": "63de4bc0e87c7f37ac998985"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "small",
+      "paddingBottom": "none",
+      "id": "63de4bbce87c7f37ac998984",
+      "blockName": "Connect the narrative",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "blue",
+      "topOverlap": "small",
+      "bottomOverlap": "medium",
+      "stats": [
+        {
+          "stat": "17%",
+          "description": "project code reduction",
+          "id": "63de4c2ae87c7f37ac998988"
+        },
+        {
+          "stat": "1275",
+          "description": "units of material saved",
+          "id": "63de4c31e87c7f37ac998989"
+        },
+        {
+          "stat": "7 weeks",
+          "description": "average time saved",
+          "id": "63de4c32e87c7f37ac99898a"
+        }
+      ],
+      "id": "63de4c18e87c7f37ac998987",
+      "blockName": "Stat bubbles",
+      "blockType": "statistics"
+    },
+    {
+      "media": {
+        "id": "63d665413d0ee52964afcf72",
+        "alt": "explor the world",
+        "width": 1440,
+        "height": 1339,
+        "sizes": {
+          "card": {
+            "width": 640,
+            "height": 480,
+            "filename": "center-image-640x480.png",
+            "filesize": 709724,
+            "url": "/media/center-image-640x480.png"
+          },
+          "portrait": {
+            "width": 768,
+            "height": 1024,
+            "filename": "center-image-768x1024.png",
+            "filesize": 1608181,
+            "url": "/media/center-image-768x1024.png"
+          },
+          "square": {
+            "width": 1200,
+            "height": 1200,
+            "filename": "center-image-1200x1200.png",
+            "filesize": 2788240,
+            "url": "/media/center-image-1200x1200.png"
+          },
+          "feature": {
+            "width": 1024,
+            "height": 576,
+            "filename": "center-image-1024x576.png",
+            "filesize": 1287488,
+            "url": "/media/center-image-1024x576.png"
+          }
+        },
+        "filename": "center-image.png",
+        "filesize": 1959746,
+        "mimeType": "image/png",
+        "createdAt": "2023-01-29T12:23:29.887Z",
+        "updatedAt": "2023-01-29T12:23:29.887Z",
+        "url": "/media/center-image.png"
+      },
+      "type": "fullscreen",
+      "id": "63de4d36e87c7f37ac998995",
+      "blockType": "single-media"
+    },
+    {
+      "size": "medium",
+      "id": "63de4c47e87c7f37ac99898b",
+      "blockType": "spacer"
+    },
+    {
+      "backgroundColor": "orange",
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Some copy about the team goes here."
+            }
+          ],
+          "type": "h2"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Posuere lorem ipsum dolor sit amet. Pretium vulputate sapien nec sagittis aliquam. "
+            }
+          ]
+        }
+      ],
+      "enableCTA": true,
+      "link": {
+        "type": "page",
+        "label": "Meet the team",
+        "page": {
+          "id": "63de4327835960b4af2b4e54",
+          "title": "Who We Are",
+          "heroType": "contentLeftOfMedia",
+          "heroContent": [
+            {
+              "children": [
+                {
+                  "text": "Vestibulum rhoncus est pellentesque "
+                },
+                {
+                  "text": "elit tellus.",
+                  "red-headline": "true"
+                }
+              ],
+              "type": "h2"
+            }
+          ],
+          "heroMedia": {
+            "id": "63d6b8833d0ee52964afcf7b",
+            "alt": "team-hero",
+            "width": 780,
+            "height": 680,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-640x480.png",
+                "filesize": 746767,
+                "url": "/media/dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-768x1024.png",
+                "filesize": 1672611,
+                "url": "/media/dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-768x1024.png"
+              },
+              "square": {},
+              "feature": {}
+            },
+            "filename": "dylan-gillis-KdeqA3aTnBY-unsplash (1) 1.png",
+            "filesize": 741112,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:18:43.024Z",
+            "updatedAt": "2023-01-29T18:18:43.024Z",
+            "url": "/media/dylan-gillis-KdeqA3aTnBY-unsplash (1) 1.png"
+          },
+          "layout": [
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "twoThirds",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Talk about the team at a high level here."
+                        }
+                      ],
+                      "type": "h3"
+                    }
+                  ],
+                  "id": "63de42e871e1800099105a8a"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63de42e271e1800099105a89",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Viverra in hac habitasse. Natoque penatibus et magnis dis parturient montes nascetur ridiculus. Massa id neque aliquam vestibulum. Consectetur libero id faucibus nisl."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de430271e1800099105a8c"
+                },
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": " Ridiculus mus mauris vitae ultricies leo. Donec ac odio tempor orci dapibus ultrices in iaculis. Tellus elementum sagittis vitae et leo"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de431471e1800099105a8d"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63de42ff71e1800099105a8b",
+              "blockType": "content"
+            },
+            {
+              "sections": [
+                {
+                  "label": "Value name 1",
+                  "description": "Describe the value 1 that’s currently highlighted to the left.",
+                  "id": "63de436771e1800099105a90"
+                },
+                {
+                  "label": "Value name 2",
+                  "description": "Describe the value 2 that’s currently highlighted to the left.",
+                  "id": "63de437171e1800099105a91"
+                },
+                {
+                  "label": "Value name 3",
+                  "description": "Describe the value 3 that’s currently highlighted to the left.",
+                  "id": "63de437871e1800099105a92"
+                }
+              ],
+              "id": "63de436471e1800099105a8f",
+              "blockType": "sticky-content"
+            },
+            {
+              "backgroundColor": "orange",
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Our \nTeam"
+                    }
+                  ],
+                  "type": "h2"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit.",
+                      "bold": true
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "media": [
+                {
+                  "media": {
+                    "id": "63d6ba183d0ee52964afcf7d",
+                    "alt": "avatar 1",
+                    "width": 354,
+                    "height": 435,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-1.png",
+                    "filesize": 256384,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:25:28.986Z",
+                    "updatedAt": "2023-01-29T18:25:28.986Z",
+                    "url": "/media/av-1.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de439571e1800099105a94"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba413d0ee52964afcf7e",
+                    "alt": "avatar 2",
+                    "width": 354,
+                    "height": 434,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-2.png",
+                    "filesize": 268383,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:09.076Z",
+                    "updatedAt": "2023-01-29T18:26:09.076Z",
+                    "url": "/media/av-2.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43a871e1800099105a95"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba4b3d0ee52964afcf7f",
+                    "alt": "avatar 3",
+                    "width": 354,
+                    "height": 434,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-3.png",
+                    "filesize": 338198,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:19.686Z",
+                    "updatedAt": "2023-01-29T18:26:19.686Z",
+                    "url": "/media/av-3.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43b571e1800099105a96"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba563d0ee52964afcf80",
+                    "alt": "avatar 4",
+                    "width": 354,
+                    "height": 440,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-4.png",
+                    "filesize": 228017,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:30.564Z",
+                    "updatedAt": "2023-01-29T18:26:30.564Z",
+                    "url": "/media/av-4.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43c471e1800099105a97"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba603d0ee52964afcf81",
+                    "alt": "avatar 5",
+                    "width": 354,
+                    "height": 435,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-5.png",
+                    "filesize": 216566,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:40.079Z",
+                    "updatedAt": "2023-01-29T18:26:40.079Z",
+                    "url": "/media/av-5.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43d571e1800099105a98"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba6a3d0ee52964afcf82",
+                    "alt": "avatar 6",
+                    "width": 354,
+                    "height": 435,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-6.png",
+                    "filesize": 176586,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:50.876Z",
+                    "updatedAt": "2023-01-29T18:26:50.876Z",
+                    "url": "/media/av-6.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43e571e1800099105a99"
+                }
+              ],
+              "id": "63de438871e1800099105a93",
+              "blockType": "media-grid"
+            },
+            {
+              "media": {
+                "id": "63d6ba933d0ee52964afcf83",
+                "alt": "fullscreen",
+                "width": 1440,
+                "height": 878,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-640x480.png",
+                    "filesize": 890486,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-768x1024.png",
+                    "filesize": 2243067,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-768x1024.png"
+                  },
+                  "square": {
+                    "width": 1200,
+                    "height": 1200,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-1200x1200.png",
+                    "filesize": 4099474,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-1200x1200.png"
+                  },
+                  "feature": {
+                    "width": 1024,
+                    "height": 576,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-1024x576.png",
+                    "filesize": 1739892,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-1024x576.png"
+                  }
+                },
+                "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1.png",
+                "filesize": 2692371,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:27:31.339Z",
+                "updatedAt": "2023-01-29T18:27:31.339Z",
+                "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1.png"
+              },
+              "type": "fullscreen",
+              "id": "63de442a71e1800099105a9b",
+              "blockType": "single-media"
+            },
+            {
+              "size": "medium",
+              "id": "63de441971e1800099105a9a",
+              "blockType": "spacer"
+            },
+            {
+              "backgroundColor": "blue",
+              "slides": [
+                {
+                  "media": {
+                    "id": "63d6bc223d0ee52964afcf84",
+                    "alt": "slide 1",
+                    "width": 839,
+                    "height": 630,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-1-640x480.png",
+                        "filesize": 771937,
+                        "url": "/media/slide-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-1-768x1024.png",
+                        "filesize": 1795911,
+                        "url": "/media/slide-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-1.png",
+                    "filesize": 974984,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:10.890Z",
+                    "updatedAt": "2023-01-29T18:34:10.890Z",
+                    "url": "/media/slide-1.png"
+                  },
+                  "id": "63de445c71e1800099105a9d"
+                },
+                {
+                  "media": {
+                    "id": "63d6c3393d0ee52964afcf91",
+                    "alt": "study-prev2",
+                    "width": 619,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "study-prev-1.png",
+                    "filesize": 792736,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T19:04:25.910Z",
+                    "updatedAt": "2023-01-29T19:04:25.910Z",
+                    "url": "/media/study-prev-1.png"
+                  },
+                  "id": "63de445f71e1800099105a9e"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc373d0ee52964afcf86",
+                    "alt": "slide 3",
+                    "width": 300,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide03.png",
+                    "filesize": 259034,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:31.929Z",
+                    "updatedAt": "2023-01-29T18:34:31.929Z",
+                    "url": "/media/slide03.png"
+                  },
+                  "id": "63de447071e1800099105a9f"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc563d0ee52964afcf87",
+                    "alt": "slide 4",
+                    "width": 840,
+                    "height": 620,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-4-640x480.png",
+                        "filesize": 778202,
+                        "url": "/media/slide-4-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-4-768x1024.png",
+                        "filesize": 1802037,
+                        "url": "/media/slide-4-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-4.png",
+                    "filesize": 816222,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:35:02.457Z",
+                    "updatedAt": "2023-01-29T18:35:02.457Z",
+                    "url": "/media/slide-4.png"
+                  },
+                  "id": "63de447e71e1800099105aa0"
+                }
+              ],
+              "id": "63de445671e1800099105a9c",
+              "blockType": "slider"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Join our team"
+                        }
+                      ],
+                      "type": "h2"
+                    }
+                  ],
+                  "id": "63de449471e1800099105aa2"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "none",
+              "id": "63de448e71e1800099105aa1",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de44a871e1800099105aa4"
+                },
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de44c171e1800099105aa5"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "none",
+              "paddingBottom": "small",
+              "id": "63de44a371e1800099105aa3",
+              "blockType": "content"
+            },
+            {
+              "actions": [
+                {
+                  "headline": "Position",
+                  "icon": "arrow",
+                  "link": {
+                    "type": "custom",
+                    "label": "Learn more",
+                    "url": "https://twitter.com/home"
+                  },
+                  "id": "63de44dc71e1800099105aa7"
+                },
+                {
+                  "headline": "Learn more",
+                  "icon": "arrow",
+                  "link": {
+                    "type": "custom",
+                    "label": "Learn more",
+                    "url": "https://twitter.com/home"
+                  },
+                  "id": "63de44f271e1800099105aa8"
+                },
+                {
+                  "headline": "Learn more",
+                  "icon": "arrow",
+                  "link": {
+                    "type": "custom",
+                    "label": "Learn more",
+                    "url": "https://twitter.com/home"
+                  },
+                  "id": "63de44fa71e1800099105aa9"
+                }
+              ],
+              "id": "63de44d371e1800099105aa6",
+              "blockType": "cta-grid"
+            }
+          ],
+          "slug": "who-we-are",
+          "createdAt": "2023-02-04T11:36:07.985Z",
+          "updatedAt": "2023-02-04T11:44:43.760Z",
+          "meta": {}
+        }
+      },
+      "media": [
+        {
+          "media": {
+            "id": "63d6b28c3d0ee52964afcf73",
+            "alt": "image 1",
+            "width": 391,
+            "height": 377,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "elevate-RBuF5GfN8ts-unsplash 1.jpg",
+            "filesize": 171269,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:53:16.676Z",
+            "updatedAt": "2023-01-29T17:53:16.676Z",
+            "url": "/media/elevate-RBuF5GfN8ts-unsplash 1.jpg"
+          },
+          "id": "63de4c76e87c7f37ac99898d"
+        },
+        {
+          "media": {
+            "id": "63d6b29e3d0ee52964afcf74",
+            "alt": "image 2",
+            "width": 541,
+            "height": 358,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "priscilla-du-preez-nF8xhLMmg0c-unsplash (1) 1.jpg",
+            "filesize": 259342,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:53:34.345Z",
+            "updatedAt": "2023-01-29T17:53:34.345Z",
+            "url": "/media/priscilla-du-preez-nF8xhLMmg0c-unsplash (1) 1.jpg"
+          },
+          "id": "63de4c78e87c7f37ac99898e"
+        },
+        {
+          "media": {
+            "id": "63d6b2be3d0ee52964afcf76",
+            "alt": "image 4",
+            "width": 359,
+            "height": 261,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "austin-distel-KWsKzLGmmzQ-unsplash 2.jpg",
+            "filesize": 183210,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:54:06.443Z",
+            "updatedAt": "2023-01-29T17:54:06.443Z",
+            "url": "/media/austin-distel-KWsKzLGmmzQ-unsplash 2.jpg"
+          },
+          "id": "63de4c79e87c7f37ac99898f"
+        },
+        {
+          "media": {
+            "id": "63d6b2d93d0ee52964afcf78",
+            "alt": "image 6",
+            "width": 353,
+            "height": 312,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "Frame 3.jpg",
+            "filesize": 122638,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:54:33.118Z",
+            "updatedAt": "2023-01-29T17:54:33.118Z",
+            "url": "/media/Frame 3.jpg"
+          },
+          "id": "63de4c7de87c7f37ac998990"
+        },
+        {
+          "media": {
+            "id": "63d6b2ca3d0ee52964afcf77",
+            "alt": "image 5",
+            "width": 369,
+            "height": 411,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "daria-pimkina-tYaccl19A3Q-unsplash 1.jpg",
+            "filesize": 199127,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:54:18.182Z",
+            "updatedAt": "2023-01-29T17:54:18.182Z",
+            "url": "/media/daria-pimkina-tYaccl19A3Q-unsplash 1.jpg"
+          },
+          "id": "63de4ca8e87c7f37ac998991"
+        },
+        {
+          "media": {
+            "id": "63d6b2b23d0ee52964afcf75",
+            "alt": "image 3",
+            "width": 397,
+            "height": 265,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "callum-hill-oamw52SCGi0-unsplash 1.jpg",
+            "filesize": 101650,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:53:54.549Z",
+            "updatedAt": "2023-01-29T17:53:54.549Z",
+            "url": "/media/callum-hill-oamw52SCGi0-unsplash 1.jpg"
+          },
+          "id": "63de4cb5e87c7f37ac998992"
+        }
+      ],
+      "id": "63de4c58e87c7f37ac99898c",
+      "blockType": "media-content-collage"
+    },
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "center",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Headline introducing case studies, where specific projects may be highlighted."
+                }
+              ],
+              "type": "h2"
+            }
+          ],
+          "id": "63de4cdfe87c7f37ac998994"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "medium",
+      "id": "63de4cd9e87c7f37ac998993",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "red",
+      "studies": [
+        {
+          "id": "63d6be903d0ee52964afcf8a",
+          "categories": [
+            {
+              "id": "63d6c5b63d0ee52964afcf98",
+              "title": "Architecture",
+              "slug": "architecture",
+              "createdAt": "2023-01-29T19:15:02.387Z",
+              "updatedAt": "2023-01-29T19:15:02.387Z"
+            }
+          ],
+          "layout": [
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Neque aliquam vestibulum morbi blandit cursus. Integer eget aliquet nibh praesent. Posuere sollicitudin aliquam ultrices."
+                        }
+                      ],
+                      "type": "h4"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                        }
+                      ],
+                      "type": "p"
+                    }
+                  ],
+                  "id": "63d6be90d485df2964df6718"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "small",
+              "id": "63d6bda746e24d410b243a03",
+              "blockName": "Description",
+              "blockType": "content"
+            },
+            {
+              "media": {
+                "id": "63d6bdf93d0ee52964afcf89",
+                "alt": "center",
+                "width": 920,
+                "height": 540,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "normal-640x480.png",
+                    "filesize": 710254,
+                    "url": "/media/normal-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "normal-768x1024.png",
+                    "filesize": 1680457,
+                    "url": "/media/normal-768x1024.png"
+                  },
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "normal.png",
+                "filesize": 737195,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:42:01.093Z",
+                "updatedAt": "2023-01-29T18:42:01.093Z",
+                "url": "/media/normal.png"
+              },
+              "type": "normal",
+              "id": "63d6bdde46e24d410b243a05",
+              "blockName": "Center Image",
+              "blockType": "single-media"
+            },
+            {
+              "size": "medium",
+              "id": "63d6bf2246e24d410b243a0e",
+              "blockName": "Spacer",
+              "blockType": "spacer"
+            },
+            {
+              "backgroundColor": "blue",
+              "slides": [
+                {
+                  "media": {
+                    "id": "63d6bc223d0ee52964afcf84",
+                    "alt": "slide 1",
+                    "width": 839,
+                    "height": 630,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-1-640x480.png",
+                        "filesize": 771937,
+                        "url": "/media/slide-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-1-768x1024.png",
+                        "filesize": 1795911,
+                        "url": "/media/slide-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-1.png",
+                    "filesize": 974984,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:10.890Z",
+                    "updatedAt": "2023-01-29T18:34:10.890Z",
+                    "url": "/media/slide-1.png"
+                  },
+                  "id": "63d6be90d485df2964df6719"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc373d0ee52964afcf86",
+                    "alt": "slide 3",
+                    "width": 300,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide03.png",
+                    "filesize": 259034,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:31.929Z",
+                    "updatedAt": "2023-01-29T18:34:31.929Z",
+                    "url": "/media/slide03.png"
+                  },
+                  "id": "63d6be90d485df2964df671a"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc563d0ee52964afcf87",
+                    "alt": "slide 4",
+                    "width": 840,
+                    "height": 620,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-4-640x480.png",
+                        "filesize": 778202,
+                        "url": "/media/slide-4-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-4-768x1024.png",
+                        "filesize": 1802037,
+                        "url": "/media/slide-4-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-4.png",
+                    "filesize": 816222,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:35:02.457Z",
+                    "updatedAt": "2023-01-29T18:35:02.457Z",
+                    "url": "/media/slide-4.png"
+                  },
+                  "id": "63d6be90d485df2964df671b"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc2f3d0ee52964afcf85",
+                    "alt": "Slide 2",
+                    "width": 300,
+                    "height": 630,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-2.png",
+                    "filesize": 312732,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:23.656Z",
+                    "updatedAt": "2023-01-29T18:34:23.656Z",
+                    "url": "/media/slide-2.png"
+                  },
+                  "id": "63d6be90d485df2964df671c"
+                }
+              ],
+              "id": "63d6be2d46e24d410b243a07",
+              "blockName": "Slider",
+              "blockType": "slider"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Sit amet porttitor eget dolor morbi non arcu risus quis. Turpis tincidunt id aliquet risus."
+                        }
+                      ],
+                      "type": "h3"
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6be90d485df2964df671d"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "none",
+              "id": "63d6be5246e24d410b243a0c",
+              "blockName": "Second Text",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "twoThirds",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Eleifend donec pretium vulputate sapien nec sagittis aliquam. Hendrerit dolor magna eget est lorem."
+                        }
+                      ],
+                      "type": "h5"
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu fames lectus viverra integer orci. Cras aliquet sodales interdum cras congue purus donec nisi mauris. Quis sit nulla venenatis nulla quam neque lectus."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c058d485df2964df671f"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "small",
+              "id": "63d6bf4e46e24d410b243a0f",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "topOverlap": "large",
+              "bottomOverlap": "large",
+              "stats": [
+                {
+                  "stat": "17%",
+                  "description": "project cost reduction",
+                  "id": "63d6c058d485df2964df6720"
+                },
+                {
+                  "stat": "7 weeks ",
+                  "description": "average time saved",
+                  "id": "63d6c058d485df2964df6721"
+                },
+                {
+                  "stat": "1,275",
+                  "description": "units of material saved",
+                  "id": "63d6c058d485df2964df6722"
+                }
+              ],
+              "id": "63d6bf8546e24d410b243a11",
+              "blockType": "statistics"
+            },
+            {
+              "media": [
+                {
+                  "media": {
+                    "id": "63d6c01c3d0ee52964afcf8b",
+                    "alt": "image-1",
+                    "width": 700,
+                    "height": 541,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png",
+                        "filesize": 796068,
+                        "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png"
+                      },
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1.png",
+                    "filesize": 811425,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:08.188Z",
+                    "updatedAt": "2023-01-29T18:51:08.188Z",
+                    "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1.png"
+                  },
+                  "id": "63d6c058d485df2964df6723"
+                },
+                {
+                  "media": {
+                    "id": "63d6c0263d0ee52964afcf8c",
+                    "alt": "image 2",
+                    "width": 576,
+                    "height": 320,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png",
+                    "filesize": 268844,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:18.747Z",
+                    "updatedAt": "2023-01-29T18:51:18.747Z",
+                    "url": "/media/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png"
+                  },
+                  "id": "63d6c058d485df2964df6724"
+                },
+                {
+                  "media": {
+                    "id": "63d6c0313d0ee52964afcf8d",
+                    "alt": "image ",
+                    "width": 920,
+                    "height": 540,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "normal-1-640x480.png",
+                        "filesize": 710254,
+                        "url": "/media/normal-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "normal-1-768x1024.png",
+                        "filesize": 1680457,
+                        "url": "/media/normal-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "normal-1.png",
+                    "filesize": 737195,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:29.273Z",
+                    "updatedAt": "2023-01-29T18:51:29.273Z",
+                    "url": "/media/normal-1.png"
+                  },
+                  "id": "63d6c058d485df2964df6725"
+                }
+              ],
+              "id": "63d6bfed46e24d410b243a15",
+              "blockType": "media-collage"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                        }
+                      ],
+                      "type": "h5"
+                    },
+                    {
+                      "type": "hr",
+                      "children": [
+                        {
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c058d485df2964df6726"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63d6c03746e24d410b243a19",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Next Case Study"
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "type": "h3",
+                      "children": [
+                        {
+                          "text": "Porttitor eget dolor morbi non arcu risus"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c164d485df2964df6727"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "none",
+              "paddingBottom": "none",
+              "id": "63d6c11c46e24d410b243a1b",
+              "blockType": "content"
+            },
+            {
+              "media": {
+                "id": "63d6c15e3d0ee52964afcf8e",
+                "alt": "study-bottom",
+                "width": 1300,
+                "height": 351,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png",
+                    "filesize": 789090,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png",
+                    "filesize": 1901353,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png"
+                  },
+                  "square": {
+                    "width": 1200,
+                    "height": 1200,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png",
+                    "filesize": 3213415,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png"
+                  },
+                  "feature": {
+                    "width": 1024,
+                    "height": 576,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png",
+                    "filesize": 1472211,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png"
+                  }
+                },
+                "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2.png",
+                "filesize": 793145,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:56:30.623Z",
+                "updatedAt": "2023-01-29T18:56:30.623Z",
+                "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2.png"
+              },
+              "type": "fullscreen",
+              "id": "63d6c14746e24d410b243a1d",
+              "blockName": "S",
+              "blockType": "single-media"
+            }
+          ],
+          "title": "First project title here",
+          "featuredMedia": {
+            "id": "63d6bd823d0ee52964afcf88",
+            "alt": "study-1",
+            "width": 1260,
+            "height": 525,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "Mask Group-640x480.png",
+                "filesize": 723618,
+                "url": "/media/Mask Group-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "Mask Group-768x1024.png",
+                "filesize": 1575439,
+                "url": "/media/Mask Group-768x1024.png"
+              },
+              "square": {
+                "width": 1200,
+                "height": 1200,
+                "filename": "Mask Group-1200x1200.png",
+                "filesize": 2788581,
+                "url": "/media/Mask Group-1200x1200.png"
+              },
+              "feature": {
+                "width": 1024,
+                "height": 576,
+                "filename": "Mask Group-1024x576.png",
+                "filesize": 1300500,
+                "url": "/media/Mask Group-1024x576.png"
+              }
+            },
+            "filename": "Mask Group.png",
+            "filesize": 974875,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:40:02.612Z",
+            "updatedAt": "2023-01-29T18:40:02.612Z",
+            "url": "/media/Mask Group.png"
+          },
+          "client": "Imperdiet Dui",
+          "location": "Mauris augue neque gravida ",
+          "previewMedia": [
+            {
+              "media": {
+                "id": "63d6c3e13d0ee52964afcf95",
+                "alt": "preview 3",
+                "width": 616,
+                "height": 351,
+                "sizes": {
+                  "card": {},
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "st-prev-3.png",
+                "filesize": 338056,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T19:07:13.050Z",
+                "updatedAt": "2023-01-29T19:07:13.050Z",
+                "url": "/media/st-prev-3.png"
+              },
+              "id": "63d6c461d485df2964df672a"
+            },
+            {
+              "media": {
+                "id": "63d6c1df3d0ee52964afcf8f",
+                "alt": "preview 2",
+                "width": 536,
+                "height": 607,
+                "sizes": {
+                  "card": {},
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "preview-2.png",
+                "filesize": 518272,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:58:39.256Z",
+                "updatedAt": "2023-01-29T18:58:39.256Z",
+                "url": "/media/preview-2.png"
+              },
+              "id": "63d6c1f5d485df2964df6728"
+            },
+            {
+              "media": {
+                "id": "63d6c01c3d0ee52964afcf8b",
+                "alt": "image-1",
+                "width": 700,
+                "height": 541,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png",
+                    "filesize": 796068,
+                    "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png"
+                  },
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1.png",
+                "filesize": 811425,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:51:08.188Z",
+                "updatedAt": "2023-01-29T18:51:08.188Z",
+                "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1.png"
+              },
+              "id": "63d6be90d485df2964df671e"
+            }
+          ],
+          "slug": "first-project-title-here",
+          "createdAt": "2023-01-29T18:44:32.302Z",
+          "updatedAt": "2023-02-04T12:31:53.154Z",
+          "meta": {
+            "title": "First Case Study",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur at nulla duis amet, eros quam tortor orci vivamus. Massa tempus posuere accumsan.",
+            "keywords": "first, case,study"
+          }
+        },
+        {
+          "id": "63d6c2103d0ee52964afcf90",
+          "categories": [
+            {
+              "id": "63d6c5c13d0ee52964afcf99",
+              "title": "Furniture",
+              "slug": "furniture",
+              "createdAt": "2023-01-29T19:15:13.869Z",
+              "updatedAt": "2023-01-29T19:15:13.869Z"
+            }
+          ],
+          "layout": [
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Neque aliquam vestibulum morbi blandit cursus. Integer eget aliquet nibh praesent. Posuere sollicitudin aliquam ultrices."
+                        }
+                      ],
+                      "type": "h4"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                        }
+                      ],
+                      "type": "p"
+                    }
+                  ],
+                  "id": "63d6be90d485df2964df6718"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "small",
+              "id": "63d6bda746e24d410b243a03",
+              "blockName": "Description",
+              "blockType": "content"
+            },
+            {
+              "media": {
+                "id": "63d6bdf93d0ee52964afcf89",
+                "alt": "center",
+                "width": 920,
+                "height": 540,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "normal-640x480.png",
+                    "filesize": 710254,
+                    "url": "/media/normal-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "normal-768x1024.png",
+                    "filesize": 1680457,
+                    "url": "/media/normal-768x1024.png"
+                  },
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "normal.png",
+                "filesize": 737195,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:42:01.093Z",
+                "updatedAt": "2023-01-29T18:42:01.093Z",
+                "url": "/media/normal.png"
+              },
+              "type": "normal",
+              "id": "63d6bdde46e24d410b243a05",
+              "blockName": "Center Image",
+              "blockType": "single-media"
+            },
+            {
+              "size": "medium",
+              "id": "63d6bf2246e24d410b243a0e",
+              "blockName": "Spacer",
+              "blockType": "spacer"
+            },
+            {
+              "backgroundColor": "blue",
+              "slides": [
+                {
+                  "media": {
+                    "id": "63d6bc223d0ee52964afcf84",
+                    "alt": "slide 1",
+                    "width": 839,
+                    "height": 630,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-1-640x480.png",
+                        "filesize": 771937,
+                        "url": "/media/slide-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-1-768x1024.png",
+                        "filesize": 1795911,
+                        "url": "/media/slide-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-1.png",
+                    "filesize": 974984,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:10.890Z",
+                    "updatedAt": "2023-01-29T18:34:10.890Z",
+                    "url": "/media/slide-1.png"
+                  },
+                  "id": "63d6be90d485df2964df6719"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc373d0ee52964afcf86",
+                    "alt": "slide 3",
+                    "width": 300,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide03.png",
+                    "filesize": 259034,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:31.929Z",
+                    "updatedAt": "2023-01-29T18:34:31.929Z",
+                    "url": "/media/slide03.png"
+                  },
+                  "id": "63d6be90d485df2964df671a"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc563d0ee52964afcf87",
+                    "alt": "slide 4",
+                    "width": 840,
+                    "height": 620,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-4-640x480.png",
+                        "filesize": 778202,
+                        "url": "/media/slide-4-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-4-768x1024.png",
+                        "filesize": 1802037,
+                        "url": "/media/slide-4-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-4.png",
+                    "filesize": 816222,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:35:02.457Z",
+                    "updatedAt": "2023-01-29T18:35:02.457Z",
+                    "url": "/media/slide-4.png"
+                  },
+                  "id": "63d6be90d485df2964df671b"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc2f3d0ee52964afcf85",
+                    "alt": "Slide 2",
+                    "width": 300,
+                    "height": 630,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-2.png",
+                    "filesize": 312732,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:23.656Z",
+                    "updatedAt": "2023-01-29T18:34:23.656Z",
+                    "url": "/media/slide-2.png"
+                  },
+                  "id": "63d6be90d485df2964df671c"
+                }
+              ],
+              "id": "63d6be2d46e24d410b243a07",
+              "blockName": "Slider",
+              "blockType": "slider"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Sit amet porttitor eget dolor morbi non arcu risus quis. Turpis tincidunt id aliquet risus."
+                        }
+                      ],
+                      "type": "h3"
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6be90d485df2964df671d"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "none",
+              "id": "63d6be5246e24d410b243a0c",
+              "blockName": "Second Text",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "twoThirds",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Eleifend donec pretium vulputate sapien nec sagittis aliquam. Hendrerit dolor magna eget est lorem."
+                        }
+                      ],
+                      "type": "h5"
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu fames lectus viverra integer orci. Cras aliquet sodales interdum cras congue purus donec nisi mauris. Quis sit nulla venenatis nulla quam neque lectus."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c058d485df2964df671f"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "small",
+              "id": "63d6bf4e46e24d410b243a0f",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "topOverlap": "large",
+              "bottomOverlap": "large",
+              "stats": [
+                {
+                  "stat": "17%",
+                  "description": "project cost reduction",
+                  "id": "63d6c058d485df2964df6720"
+                },
+                {
+                  "stat": "7 weeks ",
+                  "description": "average time saved",
+                  "id": "63d6c058d485df2964df6721"
+                },
+                {
+                  "stat": "1,275",
+                  "description": "units of material saved",
+                  "id": "63d6c058d485df2964df6722"
+                }
+              ],
+              "id": "63d6bf8546e24d410b243a11",
+              "blockType": "statistics"
+            },
+            {
+              "media": [
+                {
+                  "media": {
+                    "id": "63d6c01c3d0ee52964afcf8b",
+                    "alt": "image-1",
+                    "width": 700,
+                    "height": 541,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png",
+                        "filesize": 796068,
+                        "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png"
+                      },
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1.png",
+                    "filesize": 811425,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:08.188Z",
+                    "updatedAt": "2023-01-29T18:51:08.188Z",
+                    "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1.png"
+                  },
+                  "id": "63d6c058d485df2964df6723"
+                },
+                {
+                  "media": {
+                    "id": "63d6c0263d0ee52964afcf8c",
+                    "alt": "image 2",
+                    "width": 576,
+                    "height": 320,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png",
+                    "filesize": 268844,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:18.747Z",
+                    "updatedAt": "2023-01-29T18:51:18.747Z",
+                    "url": "/media/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png"
+                  },
+                  "id": "63d6c058d485df2964df6724"
+                },
+                {
+                  "media": {
+                    "id": "63d6c0313d0ee52964afcf8d",
+                    "alt": "image ",
+                    "width": 920,
+                    "height": 540,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "normal-1-640x480.png",
+                        "filesize": 710254,
+                        "url": "/media/normal-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "normal-1-768x1024.png",
+                        "filesize": 1680457,
+                        "url": "/media/normal-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "normal-1.png",
+                    "filesize": 737195,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:29.273Z",
+                    "updatedAt": "2023-01-29T18:51:29.273Z",
+                    "url": "/media/normal-1.png"
+                  },
+                  "id": "63d6c058d485df2964df6725"
+                }
+              ],
+              "id": "63d6bfed46e24d410b243a15",
+              "blockType": "media-collage"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                        }
+                      ],
+                      "type": "h5"
+                    },
+                    {
+                      "type": "hr",
+                      "children": [
+                        {
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c058d485df2964df6726"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63d6c03746e24d410b243a19",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Next Case Study"
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "type": "h3",
+                      "children": [
+                        {
+                          "text": "Porttitor eget dolor morbi non arcu risus"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c164d485df2964df6727"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "none",
+              "paddingBottom": "none",
+              "id": "63d6c11c46e24d410b243a1b",
+              "blockType": "content"
+            },
+            {
+              "media": {
+                "id": "63d6c15e3d0ee52964afcf8e",
+                "alt": "study-bottom",
+                "width": 1300,
+                "height": 351,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png",
+                    "filesize": 789090,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png",
+                    "filesize": 1901353,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png"
+                  },
+                  "square": {
+                    "width": 1200,
+                    "height": 1200,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png",
+                    "filesize": 3213415,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png"
+                  },
+                  "feature": {
+                    "width": 1024,
+                    "height": 576,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png",
+                    "filesize": 1472211,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png"
+                  }
+                },
+                "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2.png",
+                "filesize": 793145,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:56:30.623Z",
+                "updatedAt": "2023-01-29T18:56:30.623Z",
+                "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2.png"
+              },
+              "type": "fullscreen",
+              "id": "63d6c14746e24d410b243a1d",
+              "blockName": "S",
+              "blockType": "single-media"
+            }
+          ],
+          "previewMedia": [
+            {
+              "media": {
+                "id": "63d6c3393d0ee52964afcf91",
+                "alt": "study-prev2",
+                "width": 619,
+                "height": 622,
+                "sizes": {
+                  "card": {},
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "study-prev-1.png",
+                "filesize": 792736,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T19:04:25.910Z",
+                "updatedAt": "2023-01-29T19:04:25.910Z",
+                "url": "/media/study-prev-1.png"
+              },
+              "id": "63d6c1f5d485df2964df6728"
+            },
+            {
+              "media": {
+                "id": "63d6c3443d0ee52964afcf92",
+                "alt": "study prev 2",
+                "width": 626,
+                "height": 749,
+                "sizes": {
+                  "card": {},
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "study-prev-2.png",
+                "filesize": 721054,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T19:04:36.690Z",
+                "updatedAt": "2023-01-29T19:04:36.690Z",
+                "url": "/media/study-prev-2.png"
+              },
+              "id": "63d6be90d485df2964df671e"
+            }
+          ],
+          "title": "Second project title here",
+          "featuredMedia": {
+            "id": "63d6c72d3d0ee52964afcf9c",
+            "alt": "study 3",
+            "width": 1359,
+            "height": 525,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "study-4-640x480.png",
+                "filesize": 668947,
+                "url": "/media/study-4-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "study-4-768x1024.png",
+                "filesize": 1425784,
+                "url": "/media/study-4-768x1024.png"
+              },
+              "square": {
+                "width": 1200,
+                "height": 1200,
+                "filename": "study-4-1200x1200.png",
+                "filesize": 2540766,
+                "url": "/media/study-4-1200x1200.png"
+              },
+              "feature": {
+                "width": 1024,
+                "height": 576,
+                "filename": "study-4-1024x576.png",
+                "filesize": 1292862,
+                "url": "/media/study-4-1024x576.png"
+              }
+            },
+            "filename": "study-4.png",
+            "filesize": 1235248,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T19:21:17.822Z",
+            "updatedAt": "2023-01-29T19:21:17.822Z",
+            "url": "/media/study-4.png"
+          },
+          "client": "Imperdiet Dui",
+          "location": "Mauris augue neque gravida ",
+          "slug": "second-project-title-here",
+          "createdAt": "2023-01-29T18:59:28.412Z",
+          "updatedAt": "2023-02-04T22:21:07.538Z",
+          "meta": {
+            "title": "Second Case Study",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur at nulla duis amet, eros quam tortor orci vivamus. Massa tempus posuere accumsan.",
+            "keywords": "second , case, study"
+          }
+        },
+        {
+          "id": "63d6c3e53d0ee52964afcf96",
+          "categories": [
+            {
+              "id": "63d6c5ca3d0ee52964afcf9a",
+              "title": "DIY",
+              "slug": "diy",
+              "createdAt": "2023-01-29T19:15:22.568Z",
+              "updatedAt": "2023-01-29T19:15:22.568Z"
+            }
+          ],
+          "layout": [
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Neque aliquam vestibulum morbi blandit cursus. Integer eget aliquet nibh praesent. Posuere sollicitudin aliquam ultrices."
+                        }
+                      ],
+                      "type": "h4"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                        }
+                      ],
+                      "type": "p"
+                    }
+                  ],
+                  "id": "63d6be90d485df2964df6718"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "small",
+              "id": "63d6bda746e24d410b243a03",
+              "blockName": "Description",
+              "blockType": "content"
+            },
+            {
+              "media": {
+                "id": "63d6bdf93d0ee52964afcf89",
+                "alt": "center",
+                "width": 920,
+                "height": 540,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "normal-640x480.png",
+                    "filesize": 710254,
+                    "url": "/media/normal-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "normal-768x1024.png",
+                    "filesize": 1680457,
+                    "url": "/media/normal-768x1024.png"
+                  },
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "normal.png",
+                "filesize": 737195,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:42:01.093Z",
+                "updatedAt": "2023-01-29T18:42:01.093Z",
+                "url": "/media/normal.png"
+              },
+              "type": "normal",
+              "id": "63d6bdde46e24d410b243a05",
+              "blockName": "Center Image",
+              "blockType": "single-media"
+            },
+            {
+              "size": "medium",
+              "id": "63d6bf2246e24d410b243a0e",
+              "blockName": "Spacer",
+              "blockType": "spacer"
+            },
+            {
+              "backgroundColor": "blue",
+              "slides": [
+                {
+                  "media": {
+                    "id": "63d6bc223d0ee52964afcf84",
+                    "alt": "slide 1",
+                    "width": 839,
+                    "height": 630,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-1-640x480.png",
+                        "filesize": 771937,
+                        "url": "/media/slide-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-1-768x1024.png",
+                        "filesize": 1795911,
+                        "url": "/media/slide-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-1.png",
+                    "filesize": 974984,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:10.890Z",
+                    "updatedAt": "2023-01-29T18:34:10.890Z",
+                    "url": "/media/slide-1.png"
+                  },
+                  "id": "63d6be90d485df2964df6719"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc373d0ee52964afcf86",
+                    "alt": "slide 3",
+                    "width": 300,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide03.png",
+                    "filesize": 259034,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:31.929Z",
+                    "updatedAt": "2023-01-29T18:34:31.929Z",
+                    "url": "/media/slide03.png"
+                  },
+                  "id": "63d6be90d485df2964df671a"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc563d0ee52964afcf87",
+                    "alt": "slide 4",
+                    "width": 840,
+                    "height": 620,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-4-640x480.png",
+                        "filesize": 778202,
+                        "url": "/media/slide-4-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-4-768x1024.png",
+                        "filesize": 1802037,
+                        "url": "/media/slide-4-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-4.png",
+                    "filesize": 816222,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:35:02.457Z",
+                    "updatedAt": "2023-01-29T18:35:02.457Z",
+                    "url": "/media/slide-4.png"
+                  },
+                  "id": "63d6be90d485df2964df671b"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc2f3d0ee52964afcf85",
+                    "alt": "Slide 2",
+                    "width": 300,
+                    "height": 630,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-2.png",
+                    "filesize": 312732,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:23.656Z",
+                    "updatedAt": "2023-01-29T18:34:23.656Z",
+                    "url": "/media/slide-2.png"
+                  },
+                  "id": "63d6be90d485df2964df671c"
+                }
+              ],
+              "id": "63d6be2d46e24d410b243a07",
+              "blockName": "Slider",
+              "blockType": "slider"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Sit amet porttitor eget dolor morbi non arcu risus quis. Turpis tincidunt id aliquet risus."
+                        }
+                      ],
+                      "type": "h3"
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6be90d485df2964df671d"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "none",
+              "id": "63d6be5246e24d410b243a0c",
+              "blockName": "Second Text",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "twoThirds",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Eleifend donec pretium vulputate sapien nec sagittis aliquam. Hendrerit dolor magna eget est lorem."
+                        }
+                      ],
+                      "type": "h5"
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu fames lectus viverra integer orci. Cras aliquet sodales interdum cras congue purus donec nisi mauris. Quis sit nulla venenatis nulla quam neque lectus."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c058d485df2964df671f"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "small",
+              "id": "63d6bf4e46e24d410b243a0f",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "topOverlap": "large",
+              "bottomOverlap": "large",
+              "stats": [
+                {
+                  "stat": "17%",
+                  "description": "project cost reduction",
+                  "id": "63d6c058d485df2964df6720"
+                },
+                {
+                  "stat": "7 weeks ",
+                  "description": "average time saved",
+                  "id": "63d6c058d485df2964df6721"
+                },
+                {
+                  "stat": "1,275",
+                  "description": "units of material saved",
+                  "id": "63d6c058d485df2964df6722"
+                }
+              ],
+              "id": "63d6bf8546e24d410b243a11",
+              "blockType": "statistics"
+            },
+            {
+              "media": [
+                {
+                  "media": {
+                    "id": "63d6c01c3d0ee52964afcf8b",
+                    "alt": "image-1",
+                    "width": 700,
+                    "height": 541,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png",
+                        "filesize": 796068,
+                        "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png"
+                      },
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1.png",
+                    "filesize": 811425,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:08.188Z",
+                    "updatedAt": "2023-01-29T18:51:08.188Z",
+                    "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1.png"
+                  },
+                  "id": "63d6c058d485df2964df6723"
+                },
+                {
+                  "media": {
+                    "id": "63d6c0263d0ee52964afcf8c",
+                    "alt": "image 2",
+                    "width": 576,
+                    "height": 320,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png",
+                    "filesize": 268844,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:18.747Z",
+                    "updatedAt": "2023-01-29T18:51:18.747Z",
+                    "url": "/media/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png"
+                  },
+                  "id": "63d6c058d485df2964df6724"
+                },
+                {
+                  "media": {
+                    "id": "63d6c0313d0ee52964afcf8d",
+                    "alt": "image ",
+                    "width": 920,
+                    "height": 540,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "normal-1-640x480.png",
+                        "filesize": 710254,
+                        "url": "/media/normal-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "normal-1-768x1024.png",
+                        "filesize": 1680457,
+                        "url": "/media/normal-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "normal-1.png",
+                    "filesize": 737195,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:51:29.273Z",
+                    "updatedAt": "2023-01-29T18:51:29.273Z",
+                    "url": "/media/normal-1.png"
+                  },
+                  "id": "63d6c058d485df2964df6725"
+                }
+              ],
+              "id": "63d6bfed46e24d410b243a15",
+              "blockType": "media-collage"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                        }
+                      ],
+                      "type": "h5"
+                    },
+                    {
+                      "type": "hr",
+                      "children": [
+                        {
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c058d485df2964df6726"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63d6c03746e24d410b243a19",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Next Case Study"
+                        }
+                      ],
+                      "type": "p"
+                    },
+                    {
+                      "type": "h3",
+                      "children": [
+                        {
+                          "text": "Porttitor eget dolor morbi non arcu risus"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63d6c164d485df2964df6727"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "none",
+              "paddingBottom": "none",
+              "id": "63d6c11c46e24d410b243a1b",
+              "blockType": "content"
+            },
+            {
+              "media": {
+                "id": "63d6c15e3d0ee52964afcf8e",
+                "alt": "study-bottom",
+                "width": 1300,
+                "height": 351,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png",
+                    "filesize": 789090,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png",
+                    "filesize": 1901353,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png"
+                  },
+                  "square": {
+                    "width": 1200,
+                    "height": 1200,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png",
+                    "filesize": 3213415,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png"
+                  },
+                  "feature": {
+                    "width": 1024,
+                    "height": 576,
+                    "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png",
+                    "filesize": 1472211,
+                    "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png"
+                  }
+                },
+                "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2.png",
+                "filesize": 793145,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:56:30.623Z",
+                "updatedAt": "2023-01-29T18:56:30.623Z",
+                "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2.png"
+              },
+              "type": "fullscreen",
+              "id": "63d6c14746e24d410b243a1d",
+              "blockName": "S",
+              "blockType": "single-media"
+            }
+          ],
+          "previewMedia": [
+            {
+              "media": {
+                "id": "63d6c3cc3d0ee52964afcf93",
+                "alt": "preview 1",
+                "width": 542,
+                "height": 604,
+                "sizes": {
+                  "card": {},
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "st-prev-1.png",
+                "filesize": 533691,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T19:06:52.899Z",
+                "updatedAt": "2023-01-29T19:06:52.899Z",
+                "url": "/media/st-prev-1.png"
+              },
+              "id": "63d6c1f5d485df2964df6728"
+            },
+            {
+              "media": {
+                "id": "63d6c3d53d0ee52964afcf94",
+                "alt": "preview 2",
+                "width": 540,
+                "height": 479,
+                "sizes": {
+                  "card": {},
+                  "portrait": {},
+                  "square": {},
+                  "feature": {}
+                },
+                "filename": "st-prev-2.png",
+                "filesize": 384149,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T19:07:01.859Z",
+                "updatedAt": "2023-01-29T19:07:01.859Z",
+                "url": "/media/st-prev-2.png"
+              },
+              "id": "63d6be90d485df2964df671e"
+            }
+          ],
+          "title": "Third project title here",
+          "featuredMedia": {
+            "id": "63d6c7153d0ee52964afcf9b",
+            "alt": "study 2",
+            "width": 1359,
+            "height": 525,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "study-2-640x480.png",
+                "filesize": 673625,
+                "url": "/media/study-2-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "study-2-768x1024.png",
+                "filesize": 1401832,
+                "url": "/media/study-2-768x1024.png"
+              },
+              "square": {
+                "width": 1200,
+                "height": 1200,
+                "filename": "study-2-1200x1200.png",
+                "filesize": 2499555,
+                "url": "/media/study-2-1200x1200.png"
+              },
+              "feature": {
+                "width": 1024,
+                "height": 576,
+                "filename": "study-2-1024x576.png",
+                "filesize": 1308321,
+                "url": "/media/study-2-1024x576.png"
+              }
+            },
+            "filename": "study-2.png",
+            "filesize": 1090774,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T19:20:53.271Z",
+            "updatedAt": "2023-01-29T19:20:53.271Z",
+            "url": "/media/study-2.png"
+          },
+          "client": "Imperdiet Dui",
+          "location": "Mauris augue neque gravida ",
+          "slug": "third-project-title-here",
+          "meta": {
+            "title": "Third Case Study",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur at nulla duis amet, eros quam tortor orci vivamus. Massa tempus posuere accumsan.",
+            "keywords": "third, case, study"
+          },
+          "createdAt": "2023-01-29T19:07:17.733Z",
+          "updatedAt": "2023-02-04T22:20:58.476Z"
+        }
+      ],
+      "id": "63ded9021e4f2cd0651a7018",
+      "blockType": "study-slider"
+    }
+  ],
+  "slug": "home",
+  "createdAt": "2023-02-04T12:06:17.356Z",
+  "updatedAt": "2023-02-04T22:15:42.906Z",
+  "meta": {}
+}

@@ -1,0 +1,861 @@
+{
+  "globalType": "mega-menu",
+  "nav": [
+    {
+      "link": {
+        "type": "page",
+        "label": "Our Approach",
+        "page": {
+          "id": "63de477b835960b4af2b505a",
+          "title": "Our Approach",
+          "heroType": "minimal",
+          "heroContent": [
+            {
+              "children": [
+                {
+                  "text": "Quick intro headline about approach"
+                }
+              ],
+              "type": "h2"
+            }
+          ],
+          "layout": [
+            {
+              "sections": [
+                {
+                  "label": "Principle Name 1",
+                  "description": "Principle 1 description goes here and should describe how the company does business.",
+                  "id": "63de4760c42bc8e04c39065f"
+                },
+                {
+                  "label": "Principle Name 2",
+                  "description": "Principle 2 description goes here and should describe how the company does business.",
+                  "id": "63de4769c42bc8e04c390660"
+                },
+                {
+                  "label": "Principle Name 3",
+                  "description": "Principle 3 description goes here and should describe how the company does business.",
+                  "id": "63de476cc42bc8e04c390661"
+                }
+              ],
+              "id": "63de475fc42bc8e04c39065e",
+              "blockType": "sticky-content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "center",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "What are the results?"
+                        }
+                      ],
+                      "type": "h4"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Volutpat ac "
+                        },
+                        {
+                          "text": "tincidunt",
+                          "red-underline": true
+                        },
+                        {
+                          "text": " vitae semper. "
+                        }
+                      ],
+                      "type": "h2"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "h4"
+                    }
+                  ],
+                  "id": "63de4912dd8a29ccad172044"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "medium",
+              "id": "63de490edd8a29ccad172043",
+              "blockType": "content"
+            },
+            {
+              "topOverlap": "small",
+              "bottomOverlap": "large",
+              "stats": [
+                {
+                  "stat": "17%",
+                  "description": "project cost reduction",
+                  "id": "63de492fdd8a29ccad172046"
+                },
+                {
+                  "stat": "7 weeks",
+                  "description": "average time saved",
+                  "id": "63de4936dd8a29ccad172047"
+                },
+                {
+                  "stat": "1,275",
+                  "description": "units of material saved",
+                  "id": "63de493fdd8a29ccad172048"
+                }
+              ],
+              "media": [
+                {
+                  "media": {
+                    "id": "63d6b2b23d0ee52964afcf75",
+                    "alt": "image 3",
+                    "width": 397,
+                    "height": 265,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "callum-hill-oamw52SCGi0-unsplash 1.jpg",
+                    "filesize": 101650,
+                    "mimeType": "image/jpeg",
+                    "createdAt": "2023-01-29T17:53:54.549Z",
+                    "updatedAt": "2023-01-29T17:53:54.549Z",
+                    "url": "/media/callum-hill-oamw52SCGi0-unsplash 1.jpg"
+                  },
+                  "id": "63de4945dd8a29ccad172049"
+                },
+                {
+                  "media": {
+                    "id": "63d6b29e3d0ee52964afcf74",
+                    "alt": "image 2",
+                    "width": 541,
+                    "height": 358,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "priscilla-du-preez-nF8xhLMmg0c-unsplash (1) 1.jpg",
+                    "filesize": 259342,
+                    "mimeType": "image/jpeg",
+                    "createdAt": "2023-01-29T17:53:34.345Z",
+                    "updatedAt": "2023-01-29T17:53:34.345Z",
+                    "url": "/media/priscilla-du-preez-nF8xhLMmg0c-unsplash (1) 1.jpg"
+                  },
+                  "id": "63de4955dd8a29ccad17204a"
+                },
+                {
+                  "media": {
+                    "id": "63d6b2ca3d0ee52964afcf77",
+                    "alt": "image 5",
+                    "width": 369,
+                    "height": 411,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "daria-pimkina-tYaccl19A3Q-unsplash 1.jpg",
+                    "filesize": 199127,
+                    "mimeType": "image/jpeg",
+                    "createdAt": "2023-01-29T17:54:18.182Z",
+                    "updatedAt": "2023-01-29T17:54:18.182Z",
+                    "url": "/media/daria-pimkina-tYaccl19A3Q-unsplash 1.jpg"
+                  },
+                  "id": "63de4955dd8a29ccad17204b"
+                },
+                {
+                  "media": {
+                    "id": "63d6b2d93d0ee52964afcf78",
+                    "alt": "image 6",
+                    "width": 353,
+                    "height": 312,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "Frame 3.jpg",
+                    "filesize": 122638,
+                    "mimeType": "image/jpeg",
+                    "createdAt": "2023-01-29T17:54:33.118Z",
+                    "updatedAt": "2023-01-29T17:54:33.118Z",
+                    "url": "/media/Frame 3.jpg"
+                  },
+                  "id": "63de4968dd8a29ccad17204c"
+                }
+              ],
+              "id": "63de4925dd8a29ccad172045",
+              "blockType": "media-stat-collage"
+            },
+            {
+              "size": "large",
+              "id": "63de4978dd8a29ccad17204d",
+              "blockType": "spacer"
+            },
+            {
+              "size": "large",
+              "id": "63de4985dd8a29ccad17204e",
+              "blockType": "spacer"
+            },
+            {
+              "backgroundColor": "orange",
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Call to action headline goes here.",
+                      "bold": true
+                    }
+                  ],
+                  "type": "h2"
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    {
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique commodo venenatis.",
+                      "marks": [],
+                      "bold": true
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "link": {
+                    "type": "custom",
+                    "label": "Get Started",
+                    "url": "http://localhost:3000/"
+                  },
+                  "id": "63de499edd8a29ccad172050"
+                },
+                {
+                  "link": {
+                    "type": "custom",
+                    "label": "Meet Our Team",
+                    "url": "http://localhost:3000/"
+                  },
+                  "id": "63de49b8dd8a29ccad172051"
+                }
+              ],
+              "id": "63de4993dd8a29ccad17204f",
+              "blockType": "call-to-action"
+            }
+          ],
+          "slug": "our-approach",
+          "createdAt": "2023-02-04T11:54:35.197Z",
+          "updatedAt": "2023-02-04T12:04:22.544Z",
+          "meta": {}
+        }
+      },
+      "id": "63d6578ed485df2964df66d8"
+    },
+    {
+      "link": {
+        "type": "page",
+        "label": "Who We Are",
+        "page": {
+          "id": "63de4327835960b4af2b4e54",
+          "title": "Who We Are",
+          "heroType": "contentLeftOfMedia",
+          "heroContent": [
+            {
+              "children": [
+                {
+                  "text": "Vestibulum rhoncus est pellentesque "
+                },
+                {
+                  "text": "elit tellus.",
+                  "red-headline": "true"
+                }
+              ],
+              "type": "h2"
+            }
+          ],
+          "heroMedia": {
+            "id": "63d6b8833d0ee52964afcf7b",
+            "alt": "team-hero",
+            "width": 780,
+            "height": 680,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-640x480.png",
+                "filesize": 746767,
+                "url": "/media/dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-768x1024.png",
+                "filesize": 1672611,
+                "url": "/media/dylan-gillis-KdeqA3aTnBY-unsplash (1) 1-768x1024.png"
+              },
+              "square": {},
+              "feature": {}
+            },
+            "filename": "dylan-gillis-KdeqA3aTnBY-unsplash (1) 1.png",
+            "filesize": 741112,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:18:43.024Z",
+            "updatedAt": "2023-01-29T18:18:43.024Z",
+            "url": "/media/dylan-gillis-KdeqA3aTnBY-unsplash (1) 1.png"
+          },
+          "layout": [
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "twoThirds",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Talk about the team at a high level here."
+                        }
+                      ],
+                      "type": "h3"
+                    }
+                  ],
+                  "id": "63de42e871e1800099105a8a"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63de42e271e1800099105a89",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Viverra in hac habitasse. Natoque penatibus et magnis dis parturient montes nascetur ridiculus. Massa id neque aliquam vestibulum. Consectetur libero id faucibus nisl."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de430271e1800099105a8c"
+                },
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": " Ridiculus mus mauris vitae ultricies leo. Donec ac odio tempor orci dapibus ultrices in iaculis. Tellus elementum sagittis vitae et leo"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de431471e1800099105a8d"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "small",
+              "paddingBottom": "small",
+              "id": "63de42ff71e1800099105a8b",
+              "blockType": "content"
+            },
+            {
+              "sections": [
+                {
+                  "label": "Value name 1",
+                  "description": "Describe the value 1 that’s currently highlighted to the left.",
+                  "id": "63de436771e1800099105a90"
+                },
+                {
+                  "label": "Value name 2",
+                  "description": "Describe the value 2 that’s currently highlighted to the left.",
+                  "id": "63de437171e1800099105a91"
+                },
+                {
+                  "label": "Value name 3",
+                  "description": "Describe the value 3 that’s currently highlighted to the left.",
+                  "id": "63de437871e1800099105a92"
+                }
+              ],
+              "id": "63de436471e1800099105a8f",
+              "blockType": "sticky-content"
+            },
+            {
+              "backgroundColor": "orange",
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Our \nTeam"
+                    }
+                  ],
+                  "type": "h2"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit.",
+                      "bold": true
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "media": [
+                {
+                  "media": {
+                    "id": "63d6ba183d0ee52964afcf7d",
+                    "alt": "avatar 1",
+                    "width": 354,
+                    "height": 435,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-1.png",
+                    "filesize": 256384,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:25:28.986Z",
+                    "updatedAt": "2023-01-29T18:25:28.986Z",
+                    "url": "/media/av-1.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de439571e1800099105a94"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba413d0ee52964afcf7e",
+                    "alt": "avatar 2",
+                    "width": 354,
+                    "height": 434,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-2.png",
+                    "filesize": 268383,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:09.076Z",
+                    "updatedAt": "2023-01-29T18:26:09.076Z",
+                    "url": "/media/av-2.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43a871e1800099105a95"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba4b3d0ee52964afcf7f",
+                    "alt": "avatar 3",
+                    "width": 354,
+                    "height": 434,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-3.png",
+                    "filesize": 338198,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:19.686Z",
+                    "updatedAt": "2023-01-29T18:26:19.686Z",
+                    "url": "/media/av-3.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43b571e1800099105a96"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba563d0ee52964afcf80",
+                    "alt": "avatar 4",
+                    "width": 354,
+                    "height": 440,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-4.png",
+                    "filesize": 228017,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:30.564Z",
+                    "updatedAt": "2023-01-29T18:26:30.564Z",
+                    "url": "/media/av-4.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43c471e1800099105a97"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba603d0ee52964afcf81",
+                    "alt": "avatar 5",
+                    "width": 354,
+                    "height": 435,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-5.png",
+                    "filesize": 216566,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:40.079Z",
+                    "updatedAt": "2023-01-29T18:26:40.079Z",
+                    "url": "/media/av-5.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43d571e1800099105a98"
+                },
+                {
+                  "media": {
+                    "id": "63d6ba6a3d0ee52964afcf82",
+                    "alt": "avatar 6",
+                    "width": 354,
+                    "height": 435,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "av-6.png",
+                    "filesize": 176586,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:26:50.876Z",
+                    "updatedAt": "2023-01-29T18:26:50.876Z",
+                    "url": "/media/av-6.png"
+                  },
+                  "content": "First Name Last Name\nTitle Goes Here",
+                  "id": "63de43e571e1800099105a99"
+                }
+              ],
+              "id": "63de438871e1800099105a93",
+              "blockType": "media-grid"
+            },
+            {
+              "media": {
+                "id": "63d6ba933d0ee52964afcf83",
+                "alt": "fullscreen",
+                "width": 1440,
+                "height": 878,
+                "sizes": {
+                  "card": {
+                    "width": 640,
+                    "height": 480,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-640x480.png",
+                    "filesize": 890486,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-640x480.png"
+                  },
+                  "portrait": {
+                    "width": 768,
+                    "height": 1024,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-768x1024.png",
+                    "filesize": 2243067,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-768x1024.png"
+                  },
+                  "square": {
+                    "width": 1200,
+                    "height": 1200,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-1200x1200.png",
+                    "filesize": 4099474,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-1200x1200.png"
+                  },
+                  "feature": {
+                    "width": 1024,
+                    "height": 576,
+                    "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1-1024x576.png",
+                    "filesize": 1739892,
+                    "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1-1024x576.png"
+                  }
+                },
+                "filename": "priscilla-du-preez-W3SEyZODn8U-unsplash 1.png",
+                "filesize": 2692371,
+                "mimeType": "image/png",
+                "createdAt": "2023-01-29T18:27:31.339Z",
+                "updatedAt": "2023-01-29T18:27:31.339Z",
+                "url": "/media/priscilla-du-preez-W3SEyZODn8U-unsplash 1.png"
+              },
+              "type": "fullscreen",
+              "id": "63de442a71e1800099105a9b",
+              "blockType": "single-media"
+            },
+            {
+              "size": "medium",
+              "id": "63de441971e1800099105a9a",
+              "blockType": "spacer"
+            },
+            {
+              "backgroundColor": "blue",
+              "slides": [
+                {
+                  "media": {
+                    "id": "63d6bc223d0ee52964afcf84",
+                    "alt": "slide 1",
+                    "width": 839,
+                    "height": 630,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-1-640x480.png",
+                        "filesize": 771937,
+                        "url": "/media/slide-1-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-1-768x1024.png",
+                        "filesize": 1795911,
+                        "url": "/media/slide-1-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-1.png",
+                    "filesize": 974984,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:10.890Z",
+                    "updatedAt": "2023-01-29T18:34:10.890Z",
+                    "url": "/media/slide-1.png"
+                  },
+                  "id": "63de445c71e1800099105a9d"
+                },
+                {
+                  "media": {
+                    "id": "63d6c3393d0ee52964afcf91",
+                    "alt": "study-prev2",
+                    "width": 619,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "study-prev-1.png",
+                    "filesize": 792736,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T19:04:25.910Z",
+                    "updatedAt": "2023-01-29T19:04:25.910Z",
+                    "url": "/media/study-prev-1.png"
+                  },
+                  "id": "63de445f71e1800099105a9e"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc373d0ee52964afcf86",
+                    "alt": "slide 3",
+                    "width": 300,
+                    "height": 622,
+                    "sizes": {
+                      "card": {},
+                      "portrait": {},
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide03.png",
+                    "filesize": 259034,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:34:31.929Z",
+                    "updatedAt": "2023-01-29T18:34:31.929Z",
+                    "url": "/media/slide03.png"
+                  },
+                  "id": "63de447071e1800099105a9f"
+                },
+                {
+                  "media": {
+                    "id": "63d6bc563d0ee52964afcf87",
+                    "alt": "slide 4",
+                    "width": 840,
+                    "height": 620,
+                    "sizes": {
+                      "card": {
+                        "width": 640,
+                        "height": 480,
+                        "filename": "slide-4-640x480.png",
+                        "filesize": 778202,
+                        "url": "/media/slide-4-640x480.png"
+                      },
+                      "portrait": {
+                        "width": 768,
+                        "height": 1024,
+                        "filename": "slide-4-768x1024.png",
+                        "filesize": 1802037,
+                        "url": "/media/slide-4-768x1024.png"
+                      },
+                      "square": {},
+                      "feature": {}
+                    },
+                    "filename": "slide-4.png",
+                    "filesize": 816222,
+                    "mimeType": "image/png",
+                    "createdAt": "2023-01-29T18:35:02.457Z",
+                    "updatedAt": "2023-01-29T18:35:02.457Z",
+                    "url": "/media/slide-4.png"
+                  },
+                  "id": "63de447e71e1800099105aa0"
+                }
+              ],
+              "id": "63de445671e1800099105a9c",
+              "blockType": "slider"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "full",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Join our team"
+                        }
+                      ],
+                      "type": "h2"
+                    }
+                  ],
+                  "id": "63de449471e1800099105aa2"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "medium",
+              "paddingBottom": "none",
+              "id": "63de448e71e1800099105aa1",
+              "blockType": "content"
+            },
+            {
+              "backgroundColor": "none",
+              "columns": [
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de44a871e1800099105aa4"
+                },
+                {
+                  "width": "half",
+                  "alignment": "left",
+                  "content": [
+                    {
+                      "children": [
+                        {
+                          "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "63de44c171e1800099105aa5"
+                }
+              ],
+              "accentLine": false,
+              "accentLineAlignment": "left",
+              "paddingTop": "none",
+              "paddingBottom": "small",
+              "id": "63de44a371e1800099105aa3",
+              "blockType": "content"
+            },
+            {
+              "actions": [
+                {
+                  "headline": "Position",
+                  "icon": "arrow",
+                  "link": {
+                    "type": "custom",
+                    "label": "Learn more",
+                    "url": "https://twitter.com/home"
+                  },
+                  "id": "63de44dc71e1800099105aa7"
+                },
+                {
+                  "headline": "Learn more",
+                  "icon": "arrow",
+                  "link": {
+                    "type": "custom",
+                    "label": "Learn more",
+                    "url": "https://twitter.com/home"
+                  },
+                  "id": "63de44f271e1800099105aa8"
+                },
+                {
+                  "headline": "Learn more",
+                  "icon": "arrow",
+                  "link": {
+                    "type": "custom",
+                    "label": "Learn more",
+                    "url": "https://twitter.com/home"
+                  },
+                  "id": "63de44fa71e1800099105aa9"
+                }
+              ],
+              "id": "63de44d371e1800099105aa6",
+              "blockType": "cta-grid"
+            }
+          ],
+          "slug": "who-we-are",
+          "createdAt": "2023-02-04T11:36:07.985Z",
+          "updatedAt": "2023-02-04T11:44:43.760Z",
+          "meta": {}
+        }
+      },
+      "id": "63d6578ed485df2964df66d9"
+    },
+    {
+      "link": {
+        "type": "custom",
+        "label": "Studies",
+        "page": "63d652dd3d0ee52964afcf6e",
+        "url": "/studies"
+      },
+      "id": "63d6578ed485df2964df66da"
+    },
+    {
+      "link": {
+        "type": "custom",
+        "label": "Contact",
+        "page": "63d652dd3d0ee52964afcf6e",
+        "url": "/contact"
+      },
+      "id": "63d6578ed485df2964df66db"
+    }
+  ],
+  "createdAt": "2023-01-29T11:25:03.010Z",
+  "updatedAt": "2023-02-04T22:15:07.251Z",
+  "id": "63d6578f3d0ee52964afcf6f"
+}

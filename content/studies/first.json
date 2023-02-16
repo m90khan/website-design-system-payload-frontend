@@ -1,0 +1,673 @@
+{
+  "id": "63d6be903d0ee52964afcf8a",
+  "categories": [
+    {
+      "id": "63d6c5b63d0ee52964afcf98",
+      "title": "Architecture",
+      "slug": "architecture",
+      "createdAt": "2023-01-29T19:15:02.387Z",
+      "updatedAt": "2023-01-29T19:15:02.387Z"
+    }
+  ],
+  "layout": [
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Neque aliquam vestibulum morbi blandit cursus. Integer eget aliquet nibh praesent. Posuere sollicitudin aliquam ultrices."
+                }
+              ],
+              "type": "h4"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                }
+              ],
+              "type": "p"
+            }
+          ],
+          "id": "63d6be90d485df2964df6718"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "small",
+      "id": "63d6bda746e24d410b243a03",
+      "blockName": "Description",
+      "blockType": "content"
+    },
+    {
+      "media": {
+        "id": "63d6bdf93d0ee52964afcf89",
+        "alt": "center",
+        "width": 920,
+        "height": 540,
+        "sizes": {
+          "card": {
+            "width": 640,
+            "height": 480,
+            "filename": "normal-640x480.png",
+            "filesize": 710254,
+            "url": "/media/normal-640x480.png"
+          },
+          "portrait": {
+            "width": 768,
+            "height": 1024,
+            "filename": "normal-768x1024.png",
+            "filesize": 1680457,
+            "url": "/media/normal-768x1024.png"
+          },
+          "square": {},
+          "feature": {}
+        },
+        "filename": "normal.png",
+        "filesize": 737195,
+        "mimeType": "image/png",
+        "createdAt": "2023-01-29T18:42:01.093Z",
+        "updatedAt": "2023-01-29T18:42:01.093Z",
+        "url": "/media/normal.png"
+      },
+      "type": "normal",
+      "id": "63d6bdde46e24d410b243a05",
+      "blockName": "Center Image",
+      "blockType": "single-media"
+    },
+    {
+      "size": "medium",
+      "id": "63d6bf2246e24d410b243a0e",
+      "blockName": "Spacer",
+      "blockType": "spacer"
+    },
+    {
+      "backgroundColor": "blue",
+      "slides": [
+        {
+          "media": {
+            "id": "63d6bc223d0ee52964afcf84",
+            "alt": "slide 1",
+            "width": 839,
+            "height": 630,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "slide-1-640x480.png",
+                "filesize": 771937,
+                "url": "/media/slide-1-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "slide-1-768x1024.png",
+                "filesize": 1795911,
+                "url": "/media/slide-1-768x1024.png"
+              },
+              "square": {},
+              "feature": {}
+            },
+            "filename": "slide-1.png",
+            "filesize": 974984,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:34:10.890Z",
+            "updatedAt": "2023-01-29T18:34:10.890Z",
+            "url": "/media/slide-1.png"
+          },
+          "id": "63d6be90d485df2964df6719"
+        },
+        {
+          "media": {
+            "id": "63d6bc373d0ee52964afcf86",
+            "alt": "slide 3",
+            "width": 300,
+            "height": 622,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "slide03.png",
+            "filesize": 259034,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:34:31.929Z",
+            "updatedAt": "2023-01-29T18:34:31.929Z",
+            "url": "/media/slide03.png"
+          },
+          "id": "63d6be90d485df2964df671a"
+        },
+        {
+          "media": {
+            "id": "63d6bc563d0ee52964afcf87",
+            "alt": "slide 4",
+            "width": 840,
+            "height": 620,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "slide-4-640x480.png",
+                "filesize": 778202,
+                "url": "/media/slide-4-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "slide-4-768x1024.png",
+                "filesize": 1802037,
+                "url": "/media/slide-4-768x1024.png"
+              },
+              "square": {},
+              "feature": {}
+            },
+            "filename": "slide-4.png",
+            "filesize": 816222,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:35:02.457Z",
+            "updatedAt": "2023-01-29T18:35:02.457Z",
+            "url": "/media/slide-4.png"
+          },
+          "id": "63d6be90d485df2964df671b"
+        },
+        {
+          "media": {
+            "id": "63d6bc2f3d0ee52964afcf85",
+            "alt": "Slide 2",
+            "width": 300,
+            "height": 630,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "slide-2.png",
+            "filesize": 312732,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:34:23.656Z",
+            "updatedAt": "2023-01-29T18:34:23.656Z",
+            "url": "/media/slide-2.png"
+          },
+          "id": "63d6be90d485df2964df671c"
+        }
+      ],
+      "id": "63d6be2d46e24d410b243a07",
+      "blockName": "Slider",
+      "blockType": "slider"
+    },
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Sit amet porttitor eget dolor morbi non arcu risus quis. Turpis tincidunt id aliquet risus."
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "type": "p",
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est sed ut sollicitudin mi eu placerat nulla. Arcu id augue donec velit porttitor. Varius ac ut quisque hac eu elit bibendum dolor posuere. Nibh eu id quam sit molestie facilisis. Pellentesque nibh tincidunt tincidunt bibendum pellentesque. Lobortis risus ut a faucibus bibendum varius morbi nunc, lacus. Eget nibh pharetra ultrices magna duis massa, consequat facilisi."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "children": [
+                {
+                  "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue."
+                }
+              ]
+            }
+          ],
+          "id": "63d6be90d485df2964df671d"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "none",
+      "id": "63d6be5246e24d410b243a0c",
+      "blockName": "Second Text",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "twoThirds",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Eleifend donec pretium vulputate sapien nec sagittis aliquam. Hendrerit dolor magna eget est lorem."
+                }
+              ],
+              "type": "h5"
+            },
+            {
+              "type": "p",
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu fames lectus viverra integer orci. Cras aliquet sodales interdum cras congue purus donec nisi mauris. Quis sit nulla venenatis nulla quam neque lectus."
+                }
+              ]
+            }
+          ],
+          "id": "63d6c058d485df2964df671f"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "small",
+      "id": "63d6bf4e46e24d410b243a0f",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "none",
+      "topOverlap": "large",
+      "bottomOverlap": "large",
+      "stats": [
+        {
+          "stat": "17%",
+          "description": "project cost reduction",
+          "id": "63d6c058d485df2964df6720"
+        },
+        {
+          "stat": "7 weeks ",
+          "description": "average time saved",
+          "id": "63d6c058d485df2964df6721"
+        },
+        {
+          "stat": "1,275",
+          "description": "units of material saved",
+          "id": "63d6c058d485df2964df6722"
+        }
+      ],
+      "id": "63d6bf8546e24d410b243a11",
+      "blockType": "statistics"
+    },
+    {
+      "media": [
+        {
+          "media": {
+            "id": "63d6c01c3d0ee52964afcf8b",
+            "alt": "image-1",
+            "width": 700,
+            "height": 541,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png",
+                "filesize": 796068,
+                "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png"
+              },
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1.png",
+            "filesize": 811425,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:51:08.188Z",
+            "updatedAt": "2023-01-29T18:51:08.188Z",
+            "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1.png"
+          },
+          "id": "63d6c058d485df2964df6723"
+        },
+        {
+          "media": {
+            "id": "63d6c0263d0ee52964afcf8c",
+            "alt": "image 2",
+            "width": 576,
+            "height": 320,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png",
+            "filesize": 268844,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:51:18.747Z",
+            "updatedAt": "2023-01-29T18:51:18.747Z",
+            "url": "/media/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash 1.png"
+          },
+          "id": "63d6c058d485df2964df6724"
+        },
+        {
+          "media": {
+            "id": "63d6c0313d0ee52964afcf8d",
+            "alt": "image ",
+            "width": 920,
+            "height": 540,
+            "sizes": {
+              "card": {
+                "width": 640,
+                "height": 480,
+                "filename": "normal-1-640x480.png",
+                "filesize": 710254,
+                "url": "/media/normal-1-640x480.png"
+              },
+              "portrait": {
+                "width": 768,
+                "height": 1024,
+                "filename": "normal-1-768x1024.png",
+                "filesize": 1680457,
+                "url": "/media/normal-1-768x1024.png"
+              },
+              "square": {},
+              "feature": {}
+            },
+            "filename": "normal-1.png",
+            "filesize": 737195,
+            "mimeType": "image/png",
+            "createdAt": "2023-01-29T18:51:29.273Z",
+            "updatedAt": "2023-01-29T18:51:29.273Z",
+            "url": "/media/normal-1.png"
+          },
+          "id": "63d6c058d485df2964df6725"
+        }
+      ],
+      "id": "63d6bfed46e24d410b243a15",
+      "blockType": "media-collage"
+    },
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Erat habitant lorem at ut nunc tempor felis. Ipsum in lectus dignissim consectetur libero, quam fermentum. Vehicula mauris, amet pellentesque suspendisse egestas sagittis mi augue vestibulum. Sed in sem rutrum id sem nunc, id neque. Odio nec mattis arcu senectus posuere. Vitae, et vulputate urna eget. Tempor vitae placerat cum congue.\r\n"
+                }
+              ],
+              "type": "h5"
+            },
+            {
+              "type": "hr",
+              "children": [
+                {
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "id": "63d6c058d485df2964df6726"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "small",
+      "paddingBottom": "small",
+      "id": "63d6c03746e24d410b243a19",
+      "blockType": "content"
+    },
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "left",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "Next Case Study"
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "type": "h3",
+              "children": [
+                {
+                  "text": "Porttitor eget dolor morbi non arcu risus"
+                }
+              ]
+            }
+          ],
+          "id": "63d6c164d485df2964df6727"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "none",
+      "paddingBottom": "none",
+      "id": "63d6c11c46e24d410b243a1b",
+      "blockType": "content"
+    },
+    {
+      "media": {
+        "id": "63d6c15e3d0ee52964afcf8e",
+        "alt": "study-bottom",
+        "width": 1300,
+        "height": 351,
+        "sizes": {
+          "card": {
+            "width": 640,
+            "height": 480,
+            "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png",
+            "filesize": 789090,
+            "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-640x480.png"
+          },
+          "portrait": {
+            "width": 768,
+            "height": 1024,
+            "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png",
+            "filesize": 1901353,
+            "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-768x1024.png"
+          },
+          "square": {
+            "width": 1200,
+            "height": 1200,
+            "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png",
+            "filesize": 3213415,
+            "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1200x1200.png"
+          },
+          "feature": {
+            "width": 1024,
+            "height": 576,
+            "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png",
+            "filesize": 1472211,
+            "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2-1024x576.png"
+          }
+        },
+        "filename": "jason-briscoe-AQl-J19ocWE-unsplash 2.png",
+        "filesize": 793145,
+        "mimeType": "image/png",
+        "createdAt": "2023-01-29T18:56:30.623Z",
+        "updatedAt": "2023-01-29T18:56:30.623Z",
+        "url": "/media/jason-briscoe-AQl-J19ocWE-unsplash 2.png"
+      },
+      "type": "fullscreen",
+      "id": "63d6c14746e24d410b243a1d",
+      "blockName": "S",
+      "blockType": "single-media"
+    }
+  ],
+  "title": "First project title here",
+  "featuredMedia": {
+    "id": "63d6bd823d0ee52964afcf88",
+    "alt": "study-1",
+    "width": 1260,
+    "height": 525,
+    "sizes": {
+      "card": {
+        "width": 640,
+        "height": 480,
+        "filename": "Mask Group-640x480.png",
+        "filesize": 723618,
+        "url": "/media/Mask Group-640x480.png"
+      },
+      "portrait": {
+        "width": 768,
+        "height": 1024,
+        "filename": "Mask Group-768x1024.png",
+        "filesize": 1575439,
+        "url": "/media/Mask Group-768x1024.png"
+      },
+      "square": {
+        "width": 1200,
+        "height": 1200,
+        "filename": "Mask Group-1200x1200.png",
+        "filesize": 2788581,
+        "url": "/media/Mask Group-1200x1200.png"
+      },
+      "feature": {
+        "width": 1024,
+        "height": 576,
+        "filename": "Mask Group-1024x576.png",
+        "filesize": 1300500,
+        "url": "/media/Mask Group-1024x576.png"
+      }
+    },
+    "filename": "Mask Group.png",
+    "filesize": 974875,
+    "mimeType": "image/png",
+    "createdAt": "2023-01-29T18:40:02.612Z",
+    "updatedAt": "2023-01-29T18:40:02.612Z",
+    "url": "/media/Mask Group.png"
+  },
+  "client": "Imperdiet Dui",
+  "location": "Mauris augue neque gravida ",
+  "previewMedia": [
+    {
+      "media": {
+        "id": "63d6c3e13d0ee52964afcf95",
+        "alt": "preview 3",
+        "width": 616,
+        "height": 351,
+        "sizes": {
+          "card": {},
+          "portrait": {},
+          "square": {},
+          "feature": {}
+        },
+        "filename": "st-prev-3.png",
+        "filesize": 338056,
+        "mimeType": "image/png",
+        "createdAt": "2023-01-29T19:07:13.050Z",
+        "updatedAt": "2023-01-29T19:07:13.050Z",
+        "url": "/media/st-prev-3.png"
+      },
+      "id": "63d6c461d485df2964df672a"
+    },
+    {
+      "media": {
+        "id": "63d6c1df3d0ee52964afcf8f",
+        "alt": "preview 2",
+        "width": 536,
+        "height": 607,
+        "sizes": {
+          "card": {},
+          "portrait": {},
+          "square": {},
+          "feature": {}
+        },
+        "filename": "preview-2.png",
+        "filesize": 518272,
+        "mimeType": "image/png",
+        "createdAt": "2023-01-29T18:58:39.256Z",
+        "updatedAt": "2023-01-29T18:58:39.256Z",
+        "url": "/media/preview-2.png"
+      },
+      "id": "63d6c1f5d485df2964df6728"
+    },
+    {
+      "media": {
+        "id": "63d6c01c3d0ee52964afcf8b",
+        "alt": "image-1",
+        "width": 700,
+        "height": 541,
+        "sizes": {
+          "card": {
+            "width": 640,
+            "height": 480,
+            "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png",
+            "filesize": 796068,
+            "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1-640x480.png"
+          },
+          "portrait": {},
+          "square": {},
+          "feature": {}
+        },
+        "filename": "tolu-olubode-PlBsJ5MybGc-unsplash 1.png",
+        "filesize": 811425,
+        "mimeType": "image/png",
+        "createdAt": "2023-01-29T18:51:08.188Z",
+        "updatedAt": "2023-01-29T18:51:08.188Z",
+        "url": "/media/tolu-olubode-PlBsJ5MybGc-unsplash 1.png"
+      },
+      "id": "63d6be90d485df2964df671e"
+    }
+  ],
+  "slug": "first-project-title-here",
+  "createdAt": "2023-01-29T18:44:32.302Z",
+  "updatedAt": "2023-02-04T12:31:53.154Z",
+  "meta": {
+    "title": "First Case Study",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur at nulla duis amet, eros quam tortor orci vivamus. Massa tempus posuere accumsan.",
+    "keywords": "first, case,study"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "id": "63de477b835960b4af2b505a",
+  "title": "Our Approach",
+  "heroType": "minimal",
+  "heroContent": [
+    {
+      "children": [
+        {
+          "text": "Quick intro headline about approach"
+        }
+      ],
+      "type": "h2"
+    }
+  ],
+  "layout": [
+    {
+      "sections": [
+        {
+          "label": "Principle Name 1",
+          "description": "Principle 1 description goes here and should describe how the company does business.",
+          "id": "63de4760c42bc8e04c39065f"
+        },
+        {
+          "label": "Principle Name 2",
+          "description": "Principle 2 description goes here and should describe how the company does business.",
+          "id": "63de4769c42bc8e04c390660"
+        },
+        {
+          "label": "Principle Name 3",
+          "description": "Principle 3 description goes here and should describe how the company does business.",
+          "id": "63de476cc42bc8e04c390661"
+        }
+      ],
+      "id": "63de475fc42bc8e04c39065e",
+      "blockType": "sticky-content"
+    },
+    {
+      "backgroundColor": "none",
+      "columns": [
+        {
+          "width": "full",
+          "alignment": "center",
+          "content": [
+            {
+              "children": [
+                {
+                  "text": "What are the results?"
+                }
+              ],
+              "type": "h4"
+            },
+            {
+              "children": [
+                {
+                  "text": "Volutpat ac "
+                },
+                {
+                  "text": "tincidunt",
+                  "red-underline": true
+                },
+                {
+                  "text": " vitae semper. "
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h4"
+            }
+          ],
+          "id": "63de4912dd8a29ccad172044"
+        }
+      ],
+      "accentLine": false,
+      "accentLineAlignment": "left",
+      "paddingTop": "medium",
+      "paddingBottom": "medium",
+      "id": "63de490edd8a29ccad172043",
+      "blockType": "content"
+    },
+    {
+      "topOverlap": "small",
+      "bottomOverlap": "large",
+      "stats": [
+        {
+          "stat": "17%",
+          "description": "project cost reduction",
+          "id": "63de492fdd8a29ccad172046"
+        },
+        {
+          "stat": "7 weeks",
+          "description": "average time saved",
+          "id": "63de4936dd8a29ccad172047"
+        },
+        {
+          "stat": "1,275",
+          "description": "units of material saved",
+          "id": "63de493fdd8a29ccad172048"
+        }
+      ],
+      "media": [
+        {
+          "media": {
+            "id": "63d6b2b23d0ee52964afcf75",
+            "alt": "image 3",
+            "width": 397,
+            "height": 265,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "callum-hill-oamw52SCGi0-unsplash 1.jpg",
+            "filesize": 101650,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:53:54.549Z",
+            "updatedAt": "2023-01-29T17:53:54.549Z",
+            "url": "/media/callum-hill-oamw52SCGi0-unsplash 1.jpg"
+          },
+          "id": "63de4945dd8a29ccad172049"
+        },
+        {
+          "media": {
+            "id": "63d6b29e3d0ee52964afcf74",
+            "alt": "image 2",
+            "width": 541,
+            "height": 358,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "priscilla-du-preez-nF8xhLMmg0c-unsplash (1) 1.jpg",
+            "filesize": 259342,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:53:34.345Z",
+            "updatedAt": "2023-01-29T17:53:34.345Z",
+            "url": "/media/priscilla-du-preez-nF8xhLMmg0c-unsplash (1) 1.jpg"
+          },
+          "id": "63de4955dd8a29ccad17204a"
+        },
+        {
+          "media": {
+            "id": "63d6b2ca3d0ee52964afcf77",
+            "alt": "image 5",
+            "width": 369,
+            "height": 411,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "daria-pimkina-tYaccl19A3Q-unsplash 1.jpg",
+            "filesize": 199127,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:54:18.182Z",
+            "updatedAt": "2023-01-29T17:54:18.182Z",
+            "url": "/media/daria-pimkina-tYaccl19A3Q-unsplash 1.jpg"
+          },
+          "id": "63de4955dd8a29ccad17204b"
+        },
+        {
+          "media": {
+            "id": "63d6b2d93d0ee52964afcf78",
+            "alt": "image 6",
+            "width": 353,
+            "height": 312,
+            "sizes": {
+              "card": {},
+              "portrait": {},
+              "square": {},
+              "feature": {}
+            },
+            "filename": "Frame 3.jpg",
+            "filesize": 122638,
+            "mimeType": "image/jpeg",
+            "createdAt": "2023-01-29T17:54:33.118Z",
+            "updatedAt": "2023-01-29T17:54:33.118Z",
+            "url": "/media/Frame 3.jpg"
+          },
+          "id": "63de4968dd8a29ccad17204c"
+        }
+      ],
+      "id": "63de4925dd8a29ccad172045",
+      "blockType": "media-stat-collage"
+    },
+    {
+      "size": "large",
+      "id": "63de4978dd8a29ccad17204d",
+      "blockType": "spacer"
+    },
+    {
+      "size": "large",
+      "id": "63de4985dd8a29ccad17204e",
+      "blockType": "spacer"
+    },
+    {
+      "backgroundColor": "orange",
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Call to action headline goes here.",
+              "bold": true
+            }
+          ],
+          "type": "h2"
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique commodo venenatis.",
+              "marks": [],
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "link": {
+            "type": "custom",
+            "label": "Get Started",
+            "url": "http://localhost:3000/"
+          },
+          "id": "63de499edd8a29ccad172050"
+        },
+        {
+          "link": {
+            "type": "custom",
+            "label": "Meet Our Team",
+            "url": "http://localhost:3000/"
+          },
+          "id": "63de49b8dd8a29ccad172051"
+        }
+      ],
+      "id": "63de4993dd8a29ccad17204f",
+      "blockType": "call-to-action"
+    }
+  ],
+  "slug": "our-approach",
+  "createdAt": "2023-02-04T11:54:35.197Z",
+  "updatedAt": "2023-02-04T12:04:22.544Z",
+  "meta": {}
+}

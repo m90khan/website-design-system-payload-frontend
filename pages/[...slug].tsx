@@ -44,7 +44,7 @@ const Page: React.FC<Props> = (props) => {
 };
 
 export default Page;
-
+// backlend
 export const getStaticProps: GetStaticProps = async (ctx) => {
   const slug = ctx.params?.slug || 'home';
 

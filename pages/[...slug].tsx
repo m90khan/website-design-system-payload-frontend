@@ -44,7 +44,7 @@ const Page: React.FC<Props> = (props) => {
     </Template>
   );
 };
-
+// test
 export default Page;
 export async function getServerSideProps(ctx) {
   const slug = ctx.params?.slug ? ctx.params?.slug[0] : 'home';

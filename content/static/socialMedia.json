@@ -1,0 +1,23 @@
+{
+  "globalType": "social-media",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://uxdkhan.com/",
+      "id": "63d658eed485df2964df66dc"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://uxdkhan.com/",
+      "id": "63d658eed485df2964df66dd"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://uxdkhan.com/",
+      "id": "63d658eed485df2964df66de"
+    }
+  ],
+  "createdAt": "2023-01-29T11:30:54.288Z",
+  "updatedAt": "2023-02-04T22:14:36.666Z",
+  "id": "63d658ee3d0ee52964afcf70"
+}

@@ -19,6 +19,9 @@ import CloseModalOnRoute from '../components/utilities/CloseModalOnRoute';
 import transitions from '../css/transitions';
 import 'react-toastify/dist/ReactToastify.css';
 import { FooterType, MegaMenuType, SocialMediaType } from '@/lib/types/common';
+import footerData from '../content/static/footer.json';
+import megaMenuData from '../content/static/megaMenu.json';
+import socialMedia from '../content/static/socialMedia.json';
 
 type AppProps = {
   pageProps: unknown;
@@ -35,7 +38,7 @@ const MyApp = (appProps: AppProps): React.ReactElement => {
   const classes = useStyles();
   const { Component, pageProps, megaMenu, footer, socialMedia } = appProps;
   const router = useRouter();
-
+  console.log({ megaMenu, footer, socialMedia });
   useEffect(() => {
     const style = document.getElementById('server-side-styles') as any;
 
@@ -122,22 +125,22 @@ const MyApp = (appProps: AppProps): React.ReactElement => {
 MyApp.getInitialProps = async (appContext: any) => {
   const appProps = await App.getInitialProps(appContext);
 
-  const [megaMenu, footer, socialMedia] = await Promise.all([
-    fetch(`${process.env.NEXT_PUBLIC_SERVER_URL}/api/globals/mega-menu`).then((res) =>
-      res.json()
-    ),
-    fetch(`${process.env.NEXT_PUBLIC_SERVER_URL}/api/globals/footer`).then((res) =>
-      res.json()
-    ),
-    fetch(`${process.env.NEXT_PUBLIC_SERVER_URL}/api/globals/social-media`).then((res) =>
-      res.json()
-    ),
-  ]);
+  // const [megaMenu, footer, socialMedia] = await Promise.all([
+  //   fetch(`${process.env.NEXT_PUBLIC_SERVER_URL}/api/globals/mega-menu`).then((res) =>
+  //     res.json()
+  //   ),
+  //   fetch(`${process.env.NEXT_PUBLIC_SERVER_URL}/api/globals/footer`).then((res) =>
+  //     res.json()
+  //   ),
+  //   fetch(`${process.env.NEXT_PUBLIC_SERVER_URL}/api/globals/social-media`).then((res) =>
+  //     res.json()
+  //   ),
+  // ]);
   return {
     ...appProps,
-    megaMenu,
-    footer,
-    socialMedia,
+    megaMenu: megaMenuData,
+    footer: footerData,
+    socialMedia: socialMedia,
   };
 };
 

@@ -8,7 +8,7 @@ import GridContainer from '../components/layout/GridContainer';
 import StudyPreview from '../components/studies/StudyPreview';
 import { StudyPageType } from '@/lib/types/page';
 import { FooterType, SocialMediaType } from '@/lib/types/common';
-
+import allStudiesData from '../content/studies/all.json';
 export type Props = {
   studies: StudyPageType[];
   statusCode: number;
@@ -60,19 +60,23 @@ const Studies: React.FC<Props> = (props) => {
 };
 
 export default Studies;
-
-export const getStaticProps: GetStaticProps = async (ctx) => {
-  const page = ctx.params?.page || 1;
-
-  const studiesReq = await fetch(
-    `${process.env.NEXT_PUBLIC_SERVER_URL}/api/studies?page=${page}`
-  );
-  const studiesData = await studiesReq.json();
-
+export async function getServerSideProps(ctx) {
   return {
-    props: {
-      studies: studiesData.docs,
-    },
-    revalidate: 1,
+    props: { studies: allStudiesData }, // will be passed to the page component as props
   };
-};
+}
+// export const getStaticProps: GetStaticProps = async (ctx) => {
+//   const page = ctx.params?.page || 1;
+
+//   const studiesReq = await fetch(
+//     `${process.env.NEXT_PUBLIC_SERVER_URL}/api/studies?page=${page}`
+//   );
+//   const studiesData = await studiesReq.json();
+
+//   return {
+//     props: {
+//       studies: studiesData.docs,
+//     },
+//     revalidate: 1,
+//   };
+// };
